@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.md
 title: 欢迎来到Bin的世界
 ---
 # {{page.title}}
